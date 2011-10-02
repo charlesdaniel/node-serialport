@@ -3,7 +3,7 @@
 
 // Copyright 2011 Chris Williams <chris@iterativedesigns.com>
 
-var sys        = require('sys');
+var sys        = require('util');
 var Buffer     = require('buffer').Buffer;
 var stream     = require('stream');
 var fs         = require('fs');
